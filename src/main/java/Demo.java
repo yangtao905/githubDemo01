@@ -13,6 +13,10 @@ public class Demo {
         System.out.println("hi");
 
 
+        System.out.println("小红");
+
+
+
     }
 
 
